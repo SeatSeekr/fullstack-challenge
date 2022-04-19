@@ -15,7 +15,6 @@ The Boxscore challenge gives you the opportunity to use newer concepts and force
   - Your markup and stylesheet should be valid, scalable and maintainable.
 - Nice to haves:
   - The data needs to be cached in a database.
-  - Each request to our API should check the database for cached data: If it's last updated time is < 15 seconds then return it. Otherwise fetch fresh data from the feed and cache it in the database.
   - Any type of automation testing
 
 ## Things to Consider
